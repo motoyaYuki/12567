@@ -2,5 +2,4 @@ dorakue
 
 ff
 
-botw
-saga
+zeruda
